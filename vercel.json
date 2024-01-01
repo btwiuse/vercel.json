@@ -1,0 +1,11 @@
+{
+  "build": {
+    "env": {
+      "IN_VERCEL": "1",
+      "ZOLA_VERSION": "0.15.3"
+    }
+  },
+  "redirects": [
+    { "source": "/k0s", "destination": "/k0s/", "permanent": false }
+  ]
+}
