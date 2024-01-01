@@ -4,6 +4,10 @@
       "source": "/(.*)",
       "headers": [
         {
+          "key": "customkey",
+          "value": "customvalue"
+        },
+        {
           "key": "Alt-Svc",
           "value": "webteleport=\":443\""
         }
