@@ -4,16 +4,8 @@
       "source": "/(.*)",
       "headers": [
         {
-          "key": "customkey",
-          "value": "customvalue"
-        },
-        {
           "key": "Alt_Svc",
           "value": "webteleport=\"k1s.io:443\""
-        },
-        {
-          "key": "Alt-Svc",
-          "value": "webteleport=\":443\""
         }
       ]
     }
