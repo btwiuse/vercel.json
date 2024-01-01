@@ -5,7 +5,7 @@
       "headers": [
         {
           "key": "Alt_Svc",
-          "value": "webteleport=\"k1s.io:443\""
+          "value": "webteleport=\"k1s.io:443\", h3=\"k1s.io\"; ma=86400; persist=1"
         }
       ]
     }
