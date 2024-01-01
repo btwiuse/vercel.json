@@ -8,6 +8,10 @@
           "value": "customvalue"
         },
         {
+          "key": "Alt_Svc",
+          "value": "webteleport=\":443\""
+        },
+        {
           "key": "Alt-Svc",
           "value": "webteleport=\":443\""
         }
